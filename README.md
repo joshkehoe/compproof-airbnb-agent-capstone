@@ -13,6 +13,9 @@ Plan → retrieve → generate → self-check:
 
 Each card carries a rubric-based confidence rating (share of supporting competitors × expert-note fit). I approve, request revision or reject each one, and decisions go to a downloadable run log.
 
+## Live demo
+https://capstone.productfaculty.com/joshkehoe
+
 ## Run it
 Open `index.html` in a browser. It starts in **sample mode** with made-up demo data (illustrations in `assets/`). To use the real AI, paste your own Claude API key in the page. Keys are never stored in this repo.
 
